@@ -2,7 +2,7 @@
 This project uses Python to predict stock prices using regression models. Key features include:
 - Data preprocessing and feature engineering.
 - Moving averages, daily returns, and lagged prices.
-- Linear Regression and Random Forest models.
+- Linear Regression model.
 
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
